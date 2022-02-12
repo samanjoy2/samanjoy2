@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Saman Sarker Joy</h1>
+<h3 align="center">I am a third-year Computer Science & Engineering undergraduate student studying at BRAC University with an interest in Machine Learning, IOS Development, and Programming Languages.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samanjoy2&label=Profile%20views&color=0e75b6&style=flat" alt="samanjoy2" /> </p>
+
 - 👋 Hi, I’m @samanjoy2
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Swift and IOS Development
